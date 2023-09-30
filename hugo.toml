@@ -1,0 +1,5 @@
+#baseURL = "file:///home/kanagawa/tools/gitlab/kanagawa/website/website/public" # 'https://example.org/'
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "Hiroki Kanagawa's website"
+theme = "FixIt" # "LoveIt" # 'ananke' # "hugo-sustain" # 

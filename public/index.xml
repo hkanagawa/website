@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Hiroki Kanagawa&#39;s website</title>
+    <link>https://example.org/</link>
+    <description>Hiroki Kanagawa&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 30 Sep 2023 19:08:03 &#43;0900</lastBuildDate>
+      <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+  <title>Publication</title>
+  <link>https://example.org/posts/publication/</link>
+  <pubDate>Sat, 30 Sep 2023 19:24:53 &#43;0900</pubDate>
+  <author>Author</author>
+  <guid>https://example.org/posts/publication/</guid>
+  <description><![CDATA[Peer-reviewed paper 2023 Hiroki Kanagawa, Takafumi Moriya, Yusuke Ijima, &ldquo;VC-T: Streaming Voice Conversion Based on Neural Transducer,&rdquo; Proc. Interspeech 2023, pp. 2088-2092, Aug, 2023 @ Dubrin, Ireland. Kenichi Fujita, Takanori Ashihara, Hiroki Kanagawa, Takafumi Moriya, Yusuke Ijima, &ldquo;Zero-Shot Text-to-Speech Synthesis Conditioned Using Self-Supervised Speech Representation Model,&rdquo; Proc. ICASSP Workshops 2023, pp. 1-5, Jun, 2023 Hiroki Kanagawa and Yusuke Ijima, &ldquo;Enhancement of Text-Predicting Style Token With Generative Adversarial Network for Expressive Speech Synthesis,&rdquo; Proc.]]></description>
+</item>
+</channel>
+</rss>
