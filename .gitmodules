@@ -2,3 +2,6 @@
 	path = themes/FixIt
 	url = https://github.com/hugo-fixit/FixIt
         ignore = dirty
+[submodule "hkanagawa"]
+	path = hkanagawa
+	url = https://github.com/hkanagawa/hkanagawa.git
