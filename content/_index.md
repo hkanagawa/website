@@ -5,7 +5,7 @@ draft = false
 +++
 
 # Affiliation
-Hiroki Kanagawa is research engineer at NTT Corporation.
+Hiroki Kanagawa (金川 裕紀) is research engineer at NTT Corporation.
 The detail CV is in preparation.
 
 # Work experience
