@@ -6,11 +6,15 @@ draft = false
 
 
 ## Peer-reviewed paper
+### 2024
+- **Hiroki Kanagawa**, Takafumi Moriya, Yusuke Ijima, "Pre-training Neural Transducer-based Streaming Voice Conversion for Faster Convergence and Alignment-free Training," Proc. Interspeech 2024, pp. 2755-2759, Aug. 2024 @ Kos, Greece. [![paper](https://img.shields.io/badge/Conference_paper-ISCA_archive-blue)](https://www.isca-archive.org/interspeech_2024/kanagawa24_interspeech.html)
+- **Hiroki Kanagawa** and Yusuke Ijima, "Knowledge Distillation from Self-Supervised Representation Learning Model with Discrete Speech Units for Any-to-Any Streaming Voice Conversion," Proc. Interspeech 2024, pp. 4393-4397, Aug. 2024 @ Kos, Greece. [![paper](https://img.shields.io/badge/Conference_paper-ISCA_archive-blue)](https://www.isca-archive.org/interspeech_2024/kanagawa24b_interspeech.html)
+
 ### 2023
 - **Hiroki Kanagawa**, Takafumi Moriya, Yusuke Ijima, "VC-T: Streaming Voice Conversion Based on Neural Transducer," Proc. Interspeech 2023, pp. 2088-2092, Aug. 2023 @ Dubrin, Ireland. [![paper](https://img.shields.io/badge/Conference_paper-ISCA_archive-blue)](https://www.isca-speech.org/archive/interspeech_2023/kanagawa23_interspeech.html), [poster](https://drive.google.com/file/d/1AfLbd2ypJjiejkphnno-F9M2pLYtIs3T/view?usp=drive_link)
 - Kenichi Fujita, Takanori Ashihara, **Hiroki Kanagawa**, Takafumi Moriya, Yusuke Ijima, 
 "Zero-Shot Text-to-Speech Synthesis Conditioned Using Self-Supervised Speech Representation Model," Proc. ICASSP Workshops 2023, pp. 1-5, Jun, 2023 [![paper](https://img.shields.io/badge/Conference_paper-IEEE_Xplorer-blue)](https://ieeexplore.ieee.org/document/10193459)
-- **Hiroki Kanagawa** and Yusuke Ijima, "Enhancement of Text-Predicting Style Token With Generative Adversarial Network for Expressive Speech Synthesis," Proc. 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023), pp. 1-5, Jun. 2023 @ Rohdes island, Greece. [![paper](https://img.shields.io/badge/Conference_paper-IEEE_Xplorer-blue)](https://ieeexplore.ieee.org/document/10095513), [slide](https://drive.google.com/file/d/1qgD4d0tOWG4vKWSbfxKumqulgRT5lm3-/view?usp=drive_link), [video](https://drive.google.com/file/d/13A8V7yh51u0wrmwxDpJVCvL8R-KndWcy/view?usp=drive_link)
+- **Hiroki Kanagawa** and Yusuke Ijima, "Enhancement of Text-Predicting Style Token With Generative Adversarial Network for Expressive Speech Synthesis," Proc. 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023), pp. 1-5, Jun. 2023 @ Rohdes, Greece. [![paper](https://img.shields.io/badge/Conference_paper-IEEE_Xplorer-blue)](https://ieeexplore.ieee.org/document/10095513), [slide](https://drive.google.com/file/d/1qgD4d0tOWG4vKWSbfxKumqulgRT5lm3-/view?usp=drive_link), [video](https://drive.google.com/file/d/13A8V7yh51u0wrmwxDpJVCvL8R-KndWcy/view?usp=drive_link)
 - 本間 幸徳, **金川 裕紀**, 小林 のぞみ, 井島 勇祐, 齋藤 邦子, "話し方種別情報を含むテキスト対話を活用した表現豊かなテキスト音声合成," 人工知能学会論文誌, vol.38, no.3, F-MA7_1-12, May. 2023. [![paper](https://img.shields.io/badge/Journal-J_stage-green)](https://www.jstage.jst.go.jp/article/tjsai/38/3/38_38-3_F-MA7/_article/-char/ja/)
 
 ### 2022
@@ -39,6 +43,9 @@ draft = false
 
 
 ## Domestic conference (Non peer-reviewed)
+### 2024
+- **金川 裕紀**, 井島 勇祐, "表現力豊かな音声合成に向けたテキストからのスタイルトークン埋め込み予測の強調," 日本音響学会 春季研究発表会, pp. xx-xx 2024年3月 @ 拓殖大学. (原稿、スライド掲載準備中...)
+
 ### 2023
 - **金川 裕紀**, 森谷 崇史, 井島 勇祐, "VC-T: ニューラルトランスデューサーに基づくストリーミング声質変換," 日本音響学会 秋季研究発表会, pp. xx-xx 2023年9月 @ 名古屋工業大学. [paper](https://drive.google.com/file/d/1uFYjAiWVFZSuU_0nNmXt1UfgjXbzCiba/view?usp=drive_link), [slide](https://drive.google.com/file/d/1IiFPVs_e99u5jfeUrawhFI7WOUc4Oku4/view?usp=drive_link)
 
